@@ -13,6 +13,6 @@
         "app_id": "4R630FFMD5",
         "api_key_search_only": "62b1dc6d2991ac386c1201bf24dc10a6",
         "index_name": "MyBgList",
-        "hits_per_page": 30
+        "hits_per_page": 100
     }
 }
